@@ -1,5 +1,6 @@
 # Personal Card App
 Card app made using ReactJS inspired by [Carrd](https://carrd.co/).
+<br />
 GitHub pages URL: [https://hangerisacat.github.io/sheenamariano-card/](https://hangerisacat.github.io/sheenamariano-card/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
