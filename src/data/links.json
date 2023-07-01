@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "id": "1", 
+      "name": "LinkedIn", 
+      "href": "https://ph.linkedin.com/in/sheenadalemariano"
+    }, 
+    {
+      "id": "2", 
+      "name": "Adventures with LLM blog", 
+      "href": "https://adventure-with-llms.tumblr.com/"
+    }, 
+    {
+      "id": "3", 
+      "name": "GitHub", 
+      "href": "https://github.com/HangerIsACat"
+    }
+  ]
+}
