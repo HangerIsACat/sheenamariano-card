@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sheenamariano-card/static/css/main.1cb33b9e.css",
+    "main.js": "/sheenamariano-card/static/js/main.bacce1de.js",
+    "static/js/787.33e82556.chunk.js": "/sheenamariano-card/static/js/787.33e82556.chunk.js",
+    "index.html": "/sheenamariano-card/index.html",
+    "main.1cb33b9e.css.map": "/sheenamariano-card/static/css/main.1cb33b9e.css.map",
+    "main.bacce1de.js.map": "/sheenamariano-card/static/js/main.bacce1de.js.map",
+    "787.33e82556.chunk.js.map": "/sheenamariano-card/static/js/787.33e82556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb33b9e.css",
+    "static/js/main.bacce1de.js"
+  ]
+}
